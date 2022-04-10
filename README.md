@@ -25,9 +25,11 @@ t
 
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rexpository&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="rexpository" /></p>
-<br>
+
 <br>
 
 <p align="center"><a href="https://github.com/rexpository"><img src="https://raw.githubusercontent.com/rexpository/rexpository/main/orbit.svg" width="70%" height="70%"></a></p>
+
+<br>
 
 ![Visitor Count](https://profile-counter.glitch.me/rexpository/count.svg)
