@@ -21,7 +21,7 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-E34F26?style=flat-square&logo=Node.js&logoColor=white" />
-</p>
+</p> 
 
 
 
