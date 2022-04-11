@@ -1,5 +1,3 @@
-t
-
 <h3>Things I work with</h3>
 <p>
   <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
