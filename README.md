@@ -1,5 +1,5 @@
-<h3>Things I work with:</h3>
-<p>
+<!-- <h3>Things I work with:</h3> -->
+<p align="center">
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="PowerShell" src="https://img.shields.io/static/v1?logo=powershell&message=PowerShell&color=5580ff&logoColor=white&style=flat-square&label=%20" />
   <img alt="DigitalOcean" src="https://img.shields.io/static/v1?logo=digitalocean&message=DigitalOcean&color=00122A&label=%20&style=flat-square" />
