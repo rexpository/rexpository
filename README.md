@@ -16,7 +16,7 @@
 
 <br>
 
-<p align="center"><a href="https://github.com/rexpository"><img src="https://raw.githubusercontent.com/rexpository/rexpository/main/orbit.svg" width="79%" height="79%"></a></p>
+<p align="center"><a href="https://rexliu.com"><img src="https://raw.githubusercontent.com/rexpository/rexpository/main/o.svg" width="100%" height="100%"></a>
 
 <br>
 
